@@ -1,6 +1,6 @@
 header {
     text-align: center;
-    background-color: rgb(238, 225, 206);
+    background-color: rgb(244, 244, 248);;
     padding: 1%;
 }
 .grid-container {
@@ -8,11 +8,12 @@ header {
     grid-template-columns: auto auto auto;
     padding: 10px;
     grid-gap: 10px;
-    background-color: blue;
+    background-color: plum;
   }
   .grid-item {
-    background-color: lightblue;
+    background-color: rgb(244, 244, 248);
     border: 1px solid rgba(0, 0, 0, 0.8);
+    border-radius: 2%;
     padding: 20px;
     font-size: 30px;
     text-align: center;
